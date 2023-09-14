@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe4deaE4de9e7E2db659059e2d52761532B010fb4",
+  "SCAN_LINK": "https://bscscan.com/token/0xe4deaE4de9e7E2db659059e2d52761532B010fb4",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain Mainnet",
+    "SYMBOL": "Binance Mainnet",
+    "ID": 56
+  },
+  "NFT_NAME": "XRP GROW NFT",
+  "SYMBOL": "XGNFT",
+  "MAX_SUPPLY": 12,
+  "WEI_COST": 300000000000000000,
+  "DISPLAY_COST": 0.3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/xrp-grow-nft",
+  "SHOW_BACKGROUND": false
+}
